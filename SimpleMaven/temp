@@ -1,1 +1,3 @@
-
+This folder consistes simple Maven project, without any implemention of selenum. 
+Here we can see how to create Feature files, Utils(Hooks,Base,etc.)
+In this project JUnit is implemented to run the test cases
